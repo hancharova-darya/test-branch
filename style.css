@@ -6,7 +6,7 @@ body{
 
 	height: 5%;
 	width: 100%;
-	background-color: #cadbc0;
+	background-color: #dad8d9;
 	display: flex;
 	justify-content: space-between;
 }
@@ -27,7 +27,7 @@ a{
 	text-decoration: none;
 	font-family: 'Lato';
 	font-size: 16pt;
-	color: #0e4749;
+	color: #684f27;
 	font-weight: bold;
 }
 
@@ -44,7 +44,7 @@ a{
 	height: 100%;
 	font-family: 'Lato';
 	padding: 3%;
-	color: #0e4749;
+	color: #684f27;
 	
 }
 .sidebar{
@@ -57,7 +57,7 @@ a{
 	font-size: 20pt;
 	padding: 4%;
 	font-weight: bold;
-	color: #0e4749;
+	color: #684f27;
 	font-family: 'Lato';
 
 
@@ -69,8 +69,15 @@ p{
 h4{
 	font-size: 16pt;
 }
+h1{
+	color: #f05134;
+}
+h3{
+	color: #f05134;
+}
 .link{
 	margin: 20px;
+	color: #818080;
 }
 .sidebar h3{
 	margin: 20px;
@@ -84,7 +91,11 @@ p img{
 .footer{
 	display: flex;
 	justify-content: space-around;
+<<<<<<< HEAD
 	background-color: #e5efe3;
+=======
+	background-color: #91bde3;
+>>>>>>> master
 	padding: 3%;
 }
 
