@@ -85,10 +85,17 @@ h3{
 .sidebar img{
  margin-top: 20%;
 }
+p img{
+	margin: 30%;
+}
 .footer{
 	display: flex;
 	justify-content: space-around;
+<<<<<<< HEAD
+	background-color: #e5efe3;
+=======
 	background-color: #91bde3;
+>>>>>>> master
 	padding: 3%;
 }
 
