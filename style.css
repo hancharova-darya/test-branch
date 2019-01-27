@@ -78,6 +78,9 @@ h4{
 .sidebar img{
  margin-top: 20%;
 }
+p img{
+	margin: 30%;
+}
 .footer{
 	display: flex;
 	justify-content: space-around;
