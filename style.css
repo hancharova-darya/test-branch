@@ -42,10 +42,12 @@ a{
 .body{
 	width: 70%;
 	height: 100%;
-	font-family: 'Lato';
+	font-family: 'Manrope';
+	font-weight: thin;
 	padding: 3%;
 	color: #684f27;
-	
+	line-height: 1.5;
+	text-rendering: optimizeLegibility;
 }
 .sidebar{
 	width: 30%;
@@ -68,12 +70,19 @@ p{
 }
 h4{
 	font-size: 16pt;
+	font-family: 'Manrope';
+	font-weight: normal;
+
 }
 h1{
 	color: #f05134;
+	font-family: 'Manrope';
+	font-weight: bold;
 }
 h3{
 	color: #f05134;
+	font-family: 'Manrope';
+	font-weight: bold;
 }
 .link{
 	margin: 20px;
@@ -97,5 +106,6 @@ p img{
 	background-color: #91bde3;
 
 	padding: 3%;
+
 }
 
